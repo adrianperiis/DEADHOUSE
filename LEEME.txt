@@ -1,0 +1,16 @@
+DEAD HOME — ARCHIVOS PARA TU WEB
+
+1. Descomprime el ZIP.
+2. Sube index.html, style.css, game.js y la carpeta assets a una carpeta de tu web, por ejemplo /dead-home/.
+3. Abre https://tu-dominio.com/dead-home/.
+
+Mantén todos los archivos y la carpeta assets juntos. No subas únicamente index.html ni el ZIP sin descomprimir.
+
+El juego funciona en un hosting estático, sin servidor especial ni base de datos. La música y los efectos se generan en el navegador y empiezan al pulsar ENTRAR EN LA CASA.
+
+Ordenador: WASD / flechas, Mayús para correr, E para investigar, J para ver pistas.
+Móvil: botones de dirección, arrastrar para mirar y botón CORRER.
+
+Las fuentes se cargan de Google Fonts; si no hay conexión, se utilizan fuentes de respaldo.
+
+ACTUALIZACIÓN: filtro VHS, chillidos de Cakelyn según la distancia, persecución más lenta y pausa completa durante las lecturas.
